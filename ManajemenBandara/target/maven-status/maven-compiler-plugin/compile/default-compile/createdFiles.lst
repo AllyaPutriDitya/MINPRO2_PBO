@@ -1,0 +1,6 @@
+Manajemen\ManajemenPenerbangan.class
+penerbangan\Bandara.class
+penerbangan\PenerbanganInterface.class
+penerbangan\PenerbanganInternasional.class
+penerbangan\PenerbanganDomestik.class
+penerbangan\PenerbanganAbstract.class
